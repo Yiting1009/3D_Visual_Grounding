@@ -53,6 +53,8 @@
 
 1. **3DRP-Net: 3D Relative Position-aware Network for 3D Visual Grounding**, *Zhejiang University* [\[Paper\]](https://arxiv.org/pdf/2307.13363.pdf)
 
+1. **A Unified Framework for 3D Point Cloud Visual Grounding**, *Xiamen University* [\[Paper\]](https://arxiv.org/pdf/2308.11887.pdf)[\[Code\]](https://github.com/Leon1207/3DRefTR)
+
 ## Extension
 
 ### Captioning & Grounding
